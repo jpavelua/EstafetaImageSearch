@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <!--android:icon="@drawable/ic_compose"-->
+    <item
+        android:id="@+id/miCompose"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="ifRoom"
+        android:title="Compose">
+    </item>
+        <!--android:icon="@drawable/ic_profile"-->
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        app:showAsAction="ifRoom|withText"
+        android:title="Profile">
+    </item>
+</menu>

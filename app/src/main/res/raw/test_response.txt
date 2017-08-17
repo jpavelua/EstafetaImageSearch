@@ -1,0 +1,238 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - bridge",
+    "totalResults": "447000000",
+    "searchTerms": "bridge",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "004160727337875953838:xmj6fvuai_c",
+    "searchType": "image"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - bridge",
+    "totalResults": "447000000",
+    "searchTerms": "bridge",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "004160727337875953838:xmj6fvuai_c",
+    "searchType": "image"
+   }
+  ]
+ },
+ "context": {
+  "title": "EstafetaImageSearch"
+ },
+ "searchInformation": {
+  "searchTime": 0.379753,
+  "formattedSearchTime": "0,38",
+  "totalResults": "447000000",
+  "formattedTotalResults": "447 000 000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Golden Gate team bridge build time lapse - YouTube",
+   "htmlTitle": "Golden Gate team \u003cb\u003ebridge\u003c/b\u003e build time lapse - YouTube",
+   "link": "https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg",
+   "displayLink": "www.youtube.com",
+   "snippet": "Golden Gate team bridge build time lapse - YouTube",
+   "htmlSnippet": "Golden Gate team \u003cb\u003ebridge\u003c/b\u003e build time lapse - YouTube",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "https://www.youtube.com/watch?v=Kaf2Porw2PM",
+    "height": 2448,
+    "width": 3264,
+    "byteSize": 3108075,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1OcBklAcrtEO7inEoJcHYbZ3lZinsqpBsSuW1yyZ7VQxtxUVbND4wBPw",
+    "thumbnailHeight": 113,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Photos: New I-74 bridge | Traffic | qctimes.com",
+   "htmlTitle": "Photos: New I-74 \u003cb\u003ebridge\u003c/b\u003e | Traffic | qctimes.com",
+   "link": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/a/85/a85ae84d-71a6-526e-9495-28f3970e5da1/56676f053279a.image.jpg",
+   "displayLink": "qctimes.com",
+   "snippet": "Photos: New I-74 bridge | Traffic | qctimes.com",
+   "htmlSnippet": "Photos: New I-74 \u003cb\u003ebridge\u003c/b\u003e | Traffic | qctimes.com",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "http://qctimes.com/traffic/photos-new-i--bridge/collection_6fedb8c6-c1ae-11e3-a1b9-0019bb2963f4.html",
+    "height": 326,
+    "width": 620,
+    "byteSize": 41186,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOCYa7U65VhXC9zpNrAIAcr1Q8rWWGJO5R9N-OJ8lWZaEiQfmmvcFAn0",
+    "thumbnailHeight": 72,
+    "thumbnailWidth": 136
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "China's new topsy-turvy bridge actually has three bridges woven ...",
+   "htmlTitle": "China&#39;s new topsy-turvy \u003cb\u003ebridge\u003c/b\u003e actually has three \u003cb\u003ebridges\u003c/b\u003e woven ...",
+   "link": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/01/13/14/bridge.jpg",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "China's new topsy-turvy bridge actually has three bridges woven ...",
+   "htmlSnippet": "China&#39;s new topsy-turvy \u003cb\u003ebridge\u003c/b\u003e actually has three \u003cb\u003ebridges\u003c/b\u003e woven ...",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "http://www.independent.co.uk/life-style/design/chinas-new-topsy-turvy-bridge-actually-has-three-bridges-woven-into-one-a7526086.html",
+    "height": 1454,
+    "width": 2400,
+    "byteSize": 640429,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eJumzhfC02ocfyfXCZim4_P0e1XnrlsRlKE8KV30mUBSGXrCt4Ed58Y",
+    "thumbnailHeight": 91,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Swan River Pedestrian Bridge | Richelle Cross | Pulse | LinkedIn",
+   "htmlTitle": "Swan River Pedestrian \u003cb\u003eBridge\u003c/b\u003e | Richelle Cross | Pulse | LinkedIn",
+   "link": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAwDAAAAJGM2MzMxNzc4LWFiMTEtNDE2MC1hOWNjLWYxOTJiNGI3ZGY5MQ.jpg",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Swan River Pedestrian Bridge | Richelle Cross | Pulse | LinkedIn",
+   "htmlSnippet": "Swan River Pedestrian \u003cb\u003eBridge\u003c/b\u003e | Richelle Cross | Pulse | LinkedIn",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "https://www.linkedin.com/pulse/swan-river-pedestrian-bridge-richelle-cross",
+    "height": 445,
+    "width": 1000,
+    "byteSize": 86889,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBu6BTCY3noicISHKl-kMjsiNLkQ9vXoHFqP7oNGjcymFmzlv_vkSTDc",
+    "thumbnailHeight": 66,
+    "thumbnailWidth": 149
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Green Forestry Bond | Green Forestry Bond - Wooden Bridge",
+   "htmlTitle": "Green Forestry Bond | Green Forestry Bond - Wooden \u003cb\u003eBridge\u003c/b\u003e",
+   "link": "https://static.wixstatic.com/media/90491b_6b3ff5d461074c0ab92dc52e54f5dcf0.jpg",
+   "displayLink": "www.greenforestrybond.co.uk",
+   "snippet": "Green Forestry Bond | Green Forestry Bond - Wooden Bridge",
+   "htmlSnippet": "Green Forestry Bond | Green Forestry Bond - Wooden \u003cb\u003eBridge\u003c/b\u003e",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "https://www.greenforestrybond.co.uk/?lightbox=image1c47",
+    "height": 3513,
+    "width": 5268,
+    "byteSize": 15533971,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1Rbr2oR2tpnZ0SKar9SEi7sv0EbaI51n7vG592MChQuLS7zr92AjyeM",
+    "thumbnailHeight": 100,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "China's New Bridges: Rising High, but Buried in Debt - The New ...",
+   "htmlTitle": "China&#39;s New \u003cb\u003eBridges\u003c/b\u003e: Rising High, but Buried in Debt - The New ...",
+   "link": "https://static01.nyt.com/images/2017/06/09/world/06china-bridge-6/06china-bridge-6-superJumbo-v2.jpg",
+   "displayLink": "www.nytimes.com",
+   "snippet": "China's New Bridges: Rising High, but Buried in Debt - The New ...",
+   "htmlSnippet": "China&#39;s New \u003cb\u003eBridges\u003c/b\u003e: Rising High, but Buried in Debt - The New ...",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "https://www.nytimes.com/2017/06/10/world/asia/china-bridges-infrastructure.html",
+    "height": 1364,
+    "width": 2048,
+    "byteSize": 651002,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9SHG1EpHStEYr7mFF6Uhok-E8uA7985-_lSmQpKtPQMCL0P-MHVUyKU",
+    "thumbnailHeight": 100,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Man comes away with cops after mounting 75-foot-high Bronx bridge ...",
+   "htmlTitle": "Man comes away with cops after mounting 75-foot-high Bronx \u003cb\u003ebridge\u003c/b\u003e ...",
+   "link": "http://assets.nydailynews.com/polopoly_fs/1.2792554.1473885261!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jumper-macombs-dam-bridge.jpg",
+   "displayLink": "www.nydailynews.com",
+   "snippet": "Man comes away with cops after mounting 75-foot-high Bronx bridge ...",
+   "htmlSnippet": "Man comes away with cops after mounting 75-foot-high Bronx \u003cb\u003ebridge\u003c/b\u003e ...",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "http://www.nydailynews.com/new-york/nyc-crime/man-cops-mounting-75-foot-high-bronx-bridge-article-1.2792556",
+    "height": 630,
+    "width": 1200,
+    "byteSize": 111124,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTan9zVRd2-Y2mGOHgK2R2Emw_vdK0fryy1obntl8iuCE4rUKEvKps7AwU",
+    "thumbnailHeight": 79,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Infrared Diangostics, Inc. | Bridge Inspection",
+   "htmlTitle": "Infrared Diangostics, Inc. | \u003cb\u003eBridge\u003c/b\u003e Inspection",
+   "link": "http://static.wixstatic.com/media/b546fc_7ab2c5af98f9436dae0a247234e64741~mv2_d_2272_1704_s_2.jpg",
+   "displayLink": "www.infrared-diagnostics-inc.com",
+   "snippet": "Infrared Diangostics, Inc. | Bridge Inspection",
+   "htmlSnippet": "Infrared Diangostics, Inc. | \u003cb\u003eBridge\u003c/b\u003e Inspection",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "http://www.infrared-diagnostics-inc.com/?lightbox=dataItem-iufxn2v0",
+    "height": 1704,
+    "width": 2272,
+    "byteSize": 759408,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i1XVax51LWRCjHe68cyhgueBQrD6Hbkcvat1N5-c7UAhIhQhWJ79qg",
+    "thumbnailHeight": 112,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Safety Test: China's giant glass bridge hit with sledgehammer by ...",
+   "htmlTitle": "Safety Test: China&#39;s giant glass \u003cb\u003ebridge\u003c/b\u003e hit with sledgehammer by ...",
+   "link": "https://i.ytimg.com/vi/YFiYNRDTj6E/maxresdefault.jpg",
+   "displayLink": "www.youtube.com",
+   "snippet": "Safety Test: China's giant glass bridge hit with sledgehammer by ...",
+   "htmlSnippet": "Safety Test: China&#39;s giant glass \u003cb\u003ebridge\u003c/b\u003e hit with sledgehammer by ...",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "https://www.youtube.com/watch?v=YFiYNRDTj6E",
+    "height": 759,
+    "width": 1360,
+    "byteSize": 76986,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7MOjc4ckT06QTcNo-NxDybJwWYvHYf3Nb052UTSyT75zEOIVLzBXpwA",
+    "thumbnailHeight": 84,
+    "thumbnailWidth": 150
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEE IT: Demolition crews fail to bring down Arkansas bridge - NY ...",
+   "htmlTitle": "SEE IT: Demolition crews fail to bring down Arkansas \u003cb\u003ebridge\u003c/b\u003e - NY ...",
+   "link": "http://assets.nydailynews.com/polopoly_fs/1.2826953.1476208575!/img/httpImage/image.jpg_gen/derivatives/article_750/bridge12n-1-web.jpg",
+   "displayLink": "www.nydailynews.com",
+   "snippet": "SEE IT: Demolition crews fail to bring down Arkansas bridge - NY ...",
+   "htmlSnippet": "SEE IT: Demolition crews fail to bring down Arkansas \u003cb\u003ebridge\u003c/b\u003e - NY ...",
+   "mime": "image/jpeg",
+   "image": {
+    "contextLink": "http://www.nydailynews.com/news/national/demolition-crews-fail-bring-arkansas-bridge-article-1.2826954",
+    "height": 405,
+    "width": 750,
+    "byteSize": 33468,
+    "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkWayuzPXzpXTV2zdkFE4XmXWR_RdltqnrmxUnDjF90AnbyZPAuXT2dlU",
+    "thumbnailHeight": 76,
+    "thumbnailWidth": 141
+   }
+  }
+ ]
+}

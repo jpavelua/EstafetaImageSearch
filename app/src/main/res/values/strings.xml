@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EstafetaImageSearch</string>
+    <string name="title_activity_framework_list">FrameworkListActivity</string>
+    <string name="title_activity_library_list">LibraryListActivity</string>
+</resources>
